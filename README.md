@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome to my GitHub profile! I'm passionate about building innovative software solutions and contributing to the open source community.<br><br>💻 I have experience in a wide range of technologies including but not limited to:<br>- Programming languages: Python, JavaScript, Java, C++<br>- Web development: HTML, CSS.<br><br>🌱 I'm always eager to learn and explore new technologies.<br><br>🤝 Collaboration and knowledge sharing are important to me.<br><br>🌐 Check out my portfolio website to see some of my projects and learn more about me: [Your portfolio website link]<br><br>⭐️ Let's connect on LinkedIn: linkedin.com/in/sabareesh-k-594735282
+👋 Welcome to my GitHub profile! I'm passionate about building innovative software solutions and contributing to the open source community.<br><br>💻 I have experience in a wide range of technologies including but not limited to:<br>- Programming languages: Python, JavaScript, Java, C++<br>- Web development: HTML, CSS.<br><br>🌱 I'm always eager to learn and explore new technologies.<br><br>🤝 Collaboration and knowledge sharing are important to me.<br><br> ⭐️ Let's connect on LinkedIn: linkedin.com/in/sabareesh-k-594735282
 
 
 ## 🌐 Socials:
