@@ -9,10 +9,9 @@
 
 🤝 Collaboration and knowledge sharing are important to me.
 
-⭐️ Let's connect on [LinkedIn](https://linkedin.com/in/sabareesh-k-594735282)!
-
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabaree.x3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sabareesh-k-594735282)
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
